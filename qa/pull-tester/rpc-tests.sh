@@ -115,6 +115,8 @@ testScripts=(
   'cbh_rpfix.py'
   'cbh_rpcheck.py'
   'tlsprotocols.py'
+  'sc_block_partitions.py'
+  'sc_cert_bwt_amount_rounding.py'
 );
 testScriptsExt=(
   'getblocktemplate_longpoll.py'
